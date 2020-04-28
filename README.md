@@ -1,2 +1,2 @@
 # uniflash
-Flash Research in SPRLab@UIUC
+Flash Research in PlatformLab@UIUC
